@@ -1,0 +1,30 @@
+1 thread
+Elapsed time = 2.884642e+00 seconds
+2 thread
+Elapsed time = 1.492524e+00 seconds
+4 thread
+Elapsed time = 8.206302e-01 seconds
+1 thread
+Elapsed time = 2.884306e+00 seconds
+2 thread
+Elapsed time = 1.495200e+00 seconds
+4 thread
+Elapsed time = 8.113307e-01 seconds
+1 thread
+Elapsed time = 2.889642e+00 seconds
+2 thread
+Elapsed time = 1.502524e+00 seconds
+4 thread
+Elapsed time = 8.352307e-01 seconds
+1 thread
+Elapsed time = 2.984642e+00 seconds
+2 thread
+Elapsed time = 1.493324e+00 seconds
+4 thread
+Elapsed time = 8.212302e-01 seconds
+1 thread
+Elapsed time = 2.900042e+00 seconds
+2 thread
+Elapsed time = 1.492234e+00 seconds
+4 thread
+Elapsed time = 8.211237e-01 seconds
